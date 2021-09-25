@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 QQ:2501092078
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhlzclf)](https://github.com/jhlzclf)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhlzclf)](https://github.com/jhlzclf/jhlzlove.github.io)
