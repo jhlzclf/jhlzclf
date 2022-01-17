@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 QQ:2501092078
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlzlove)](https://github.com/jhlzlove/jhlzlove.github.io)
-
+<!-- 统计统计卡片 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlzlove&show_icons=true&theme=radical)
 
+<!-- 热门语言卡片 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlzlove&layout=compact)](https://github.com/jhlzlove/jhlzlove.github.io)
+
+<!-- GitHub更多置顶 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhlzlove&repo=jhlzlove.github.io)](https://github.com/jhlzlove/jhlzlove.github.io)
