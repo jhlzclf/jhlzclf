@@ -23,4 +23,4 @@ QQ:2501092078
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlzlove&layout=compact)](https://github.com/jhlzlove/market)
 
 <!-- GitHub更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhlzlove&repo=market)](https://github.com/jhlzlove/market)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhlzlove&repo=market)](https://github.com/jhlzlove/jhlzlove.github.io)
