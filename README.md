@@ -20,7 +20,7 @@ QQ:2501092078
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlzlove&show_icons=true&theme=radical)
 
 <!-- 热门语言卡片 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlzlove&layout=compact)](https://github.com/jhlzlove/jhlzlove.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlzlove&layout=compact)](https://github.com/jhlzlove/market)
 
 <!-- GitHub更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhlzlove&repo=jhlzlove.github.io)](https://github.com/jhlzlove/jhlzlove.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhlzlove&repo=market)](https://github.com/jhlzlove/market)
