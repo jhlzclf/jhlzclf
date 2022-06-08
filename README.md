@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 -->
 QQ交流群：821590534
 
+jhlz-github-stats.vercel.app
+
 <!-- 统计统计卡片 -->
-![Jhlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlzlove&show_icons=true&theme=shades-of-purple&show_owner=true)
+![Jhlz's GitHub stats](https://jhlz-github-stats.vercel.app/api?username=jhlzlove&show_icons=true&theme=shades-of-purple&show_owner=true)
 
 <!-- 热门语言卡片 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlzlove&layout=compact)](https://github.com/jhlzlove/market)
