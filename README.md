@@ -1,11 +1,11 @@
 ### 江湖浪子的网络仓库 👋
 
-江湖浪子楚凛風，参上！请多多指教了哦！
+江湖浪子，参上！请多多指教了哦！
 
-QQ交流群：821590534，欢迎各位大佬的加入！
+QQ交流群：821590534
 
 <!-- 统计统计卡片 -->
-![Jhlz's GitHub stats](https://jhlz-github-stats.vercel.app/api?username=jhlzlove&show_icons=true&theme=shades-of-purple&show_owner=true)
+![Jhlz's GitHub stats](https://jhlz-github-stats.vercel.app/api?username=jhlzlove&show_icons=true&theme=shades-of-purple)
 
 
 <!-- GitHub更多置顶 -->
