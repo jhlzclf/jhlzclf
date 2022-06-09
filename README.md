@@ -9,7 +9,7 @@ QQ交流群：821590534，欢迎各位大佬的加入！
 
 
 <!-- GitHub更多置顶 -->
-[![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=github-readme-stats)](https://github.com/jhlzlove/github-readme-stats) [![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=market)](https://github.com/jhlzlove/github-readme-stats)  [![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=jhlzlove.github.io)](https://github.com/jhlzlove/github-readme-stats)
+[![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=github-readme-stats)](https://github.com/jhlzlove/github-readme-stats) [![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=market)](https://github.com/jhlzlove/market)  [![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=jhlzlove.github.io)](https://github.com/jhlzlove/jhlzlove.github.io)
 
 <!-- 热门语言卡片 -->
 [![Top Langs](https://jhlz-github-stats.vercel.app/api/top-langs/?username=jhlzlove&layout=compact)](https://github.com/jhlzlove/market)
