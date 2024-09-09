@@ -8,9 +8,7 @@
 
 <!-- GitHub更多置顶 -->
 [![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=gradle-project-example&show_icons=true&theme=buefy)](https://github.com/jhlzlove/gradle-project-example)
-[![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=CodeBase&show_icons=true&theme=buefy)](https://github.com/jhlzlove/CodeBase)
 [![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=leaf&show_icons=true&theme=buefy)](https://github.com/jhlzlove/leaf)
-[![Readme Card](https://jhlz-github-stats.vercel.app/api/pin/?username=jhlzlove&repo=vben3&show_icons=true&theme=buefy)](https://github.com/jhlzlove/vben3)
 
 <!-- Gist -->
 <!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
